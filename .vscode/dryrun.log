@@ -1,0 +1,4 @@
+make: Entering directory `/Users/nirshtein/Development/GitHub/design-pattern-examples'
+npm install -g ts-node typescript '@types/node'
+make: Leaving directory `/Users/nirshtein/Development/GitHub/design-pattern-examples'
+ 
